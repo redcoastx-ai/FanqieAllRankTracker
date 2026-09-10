@@ -1,169 +1,169 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "list_key": "female_new",
   "list_name": "女频新书榜",
   "category_reads": [
     {
       "category": "豪门总裁",
-      "total_reads": 5281000,
-      "reads_str": "528.1万",
+      "total_reads": 5271000,
+      "reads_str": "527.1万",
       "book_count": 30,
-      "max_reads": 411000,
-      "min_reads": 76000,
-      "avg_reads": 176033
+      "max_reads": 392000,
+      "min_reads": 71000,
+      "avg_reads": 175700
     },
     {
       "category": "现言脑洞",
-      "total_reads": 3143000,
-      "reads_str": "314.3万",
+      "total_reads": 3324000,
+      "reads_str": "332.4万",
       "book_count": 30,
-      "max_reads": 489000,
-      "min_reads": 55000,
-      "avg_reads": 104767
+      "max_reads": 467000,
+      "min_reads": 46000,
+      "avg_reads": 110800
     },
     {
       "category": "年代",
-      "total_reads": 2289000,
-      "reads_str": "228.9万",
+      "total_reads": 2376000,
+      "reads_str": "237.6万",
       "book_count": 30,
-      "max_reads": 409000,
-      "min_reads": 35000,
-      "avg_reads": 76300
+      "max_reads": 443000,
+      "min_reads": 33000,
+      "avg_reads": 79200
     },
     {
       "category": "快穿",
-      "total_reads": 2233000,
-      "reads_str": "223.3万",
+      "total_reads": 2255000,
+      "reads_str": "225.5万",
       "book_count": 30,
-      "max_reads": 179000,
-      "min_reads": 35000,
-      "avg_reads": 74433
+      "max_reads": 190000,
+      "min_reads": 41000,
+      "avg_reads": 75167
     },
     {
       "category": "青春甜宠",
-      "total_reads": 1773000,
-      "reads_str": "177.3万",
+      "total_reads": 1723000,
+      "reads_str": "172.3万",
       "book_count": 30,
-      "max_reads": 163000,
-      "min_reads": 30000,
-      "avg_reads": 59100
+      "max_reads": 173000,
+      "min_reads": 29000,
+      "avg_reads": 57433
     },
     {
       "category": "宫斗宅斗",
-      "total_reads": 1680000,
-      "reads_str": "168.0万",
+      "total_reads": 1664000,
+      "reads_str": "166.4万",
       "book_count": 30,
-      "max_reads": 191000,
+      "max_reads": 193000,
       "min_reads": 28000,
-      "avg_reads": 56000
+      "avg_reads": 55467
     },
     {
       "category": "科幻末世",
-      "total_reads": 1654000,
-      "reads_str": "165.4万",
+      "total_reads": 1662000,
+      "reads_str": "166.2万",
       "book_count": 30,
-      "max_reads": 286000,
-      "min_reads": 16000,
-      "avg_reads": 55133
-    },
-    {
-      "category": "女频衍生",
-      "total_reads": 1567000,
-      "reads_str": "156.7万",
-      "book_count": 30,
-      "max_reads": 163000,
-      "min_reads": 30000,
-      "avg_reads": 52233
+      "max_reads": 293000,
+      "min_reads": 14000,
+      "avg_reads": 55400
     },
     {
       "category": "玄幻言情",
-      "total_reads": 1546000,
-      "reads_str": "154.6万",
+      "total_reads": 1592000,
+      "reads_str": "159.2万",
       "book_count": 30,
-      "max_reads": 137000,
-      "min_reads": 22000,
-      "avg_reads": 51533
+      "max_reads": 147000,
+      "min_reads": 26000,
+      "avg_reads": 53067
+    },
+    {
+      "category": "女频衍生",
+      "total_reads": 1582000,
+      "reads_str": "158.2万",
+      "book_count": 30,
+      "max_reads": 163000,
+      "min_reads": 33000,
+      "avg_reads": 52733
     },
     {
       "category": "职场婚恋",
       "total_reads": 1231000,
       "reads_str": "123.1万",
       "book_count": 30,
-      "max_reads": 197000,
-      "min_reads": 15000,
+      "max_reads": 195000,
+      "min_reads": 16000,
       "avg_reads": 41033
     },
     {
-      "category": "古言脑洞",
-      "total_reads": 1209000,
-      "reads_str": "120.9万",
+      "category": "种田",
+      "total_reads": 1221000,
+      "reads_str": "122.1万",
       "book_count": 30,
-      "max_reads": 123000,
-      "min_reads": 13000,
-      "avg_reads": 40300
+      "max_reads": 210000,
+      "min_reads": 16000,
+      "avg_reads": 40700
     },
     {
-      "category": "种田",
-      "total_reads": 1189000,
-      "reads_str": "118.9万",
+      "category": "古言脑洞",
+      "total_reads": 1180000,
+      "reads_str": "118.0万",
       "book_count": 30,
-      "max_reads": 211000,
-      "min_reads": 14000,
-      "avg_reads": 39633
+      "max_reads": 119000,
+      "min_reads": 16000,
+      "avg_reads": 39333
     },
     {
       "category": "星光璀璨",
-      "total_reads": 1169000,
-      "reads_str": "116.9万",
+      "total_reads": 1144000,
+      "reads_str": "114.4万",
       "book_count": 30,
-      "max_reads": 171000,
-      "min_reads": 16000,
-      "avg_reads": 38967
+      "max_reads": 166000,
+      "min_reads": 15000,
+      "avg_reads": 38133
     },
     {
       "category": "悬疑脑洞",
-      "total_reads": 733202,
-      "reads_str": "73.3万",
+      "total_reads": 741000,
+      "reads_str": "74.1万",
       "book_count": 30,
-      "max_reads": 80000,
-      "min_reads": 8202,
-      "avg_reads": 24440
+      "max_reads": 78000,
+      "min_reads": 10000,
+      "avg_reads": 24700
     },
     {
       "category": "女频悬疑",
-      "total_reads": 681000,
-      "reads_str": "68.1万",
+      "total_reads": 670000,
+      "reads_str": "67.0万",
       "book_count": 30,
-      "max_reads": 62000,
+      "max_reads": 66000,
       "min_reads": 11000,
-      "avg_reads": 22700
+      "avg_reads": 22333
     },
     {
       "category": "古风世情",
-      "total_reads": 664862,
-      "reads_str": "66.5万",
+      "total_reads": 631288,
+      "reads_str": "63.1万",
       "book_count": 30,
-      "max_reads": 62000,
-      "min_reads": 5364,
-      "avg_reads": 22162
+      "max_reads": 59000,
+      "min_reads": 4942,
+      "avg_reads": 21043
     },
     {
       "category": "游戏体育",
-      "total_reads": 436231,
-      "reads_str": "43.6万",
+      "total_reads": 439473,
+      "reads_str": "43.9万",
       "book_count": 30,
-      "max_reads": 48000,
-      "min_reads": 3768,
-      "avg_reads": 14541
+      "max_reads": 45000,
+      "min_reads": 4708,
+      "avg_reads": 14649
     },
     {
       "category": "民国言情",
-      "total_reads": 291572,
-      "reads_str": "29.2万",
+      "total_reads": 282626,
+      "reads_str": "28.3万",
       "book_count": 30,
-      "max_reads": 40000,
-      "min_reads": 2386,
-      "avg_reads": 9719
+      "max_reads": 35000,
+      "min_reads": 1709,
+      "avg_reads": 9421
     }
   ],
   "top_books": [
@@ -171,160 +171,160 @@
       "title": "我在韩国贵族高中假装财阀二代",
       "author": "一树挽歌",
       "category": "现言脑洞",
-      "reads": 489000.0,
-      "reads_str": "48.9万",
+      "reads": 467000.0,
+      "reads_str": "46.7万",
       "url": "https://fanqienovel.com/page/7663152833243401278"
-    },
-    {
-      "title": "春夜溺吻",
-      "author": "聆姜",
-      "category": "豪门总裁",
-      "reads": 411000.0,
-      "reads_str": "41.1万",
-      "url": "https://fanqienovel.com/page/7532034656590367806"
     },
     {
       "title": "村女刘丽",
       "author": "张燕儿",
       "category": "年代",
-      "reads": 409000.0,
-      "reads_str": "40.9万",
+      "reads": 443000.0,
+      "reads_str": "44.3万",
       "url": "https://fanqienovel.com/page/7655680332317871166"
     },
     {
-      "title": "人前禁欲，夜里沉溺",
-      "author": "洛汀序",
+      "title": "春夜溺吻",
+      "author": "聆姜",
       "category": "豪门总裁",
-      "reads": 376000.0,
-      "reads_str": "37.6万",
-      "url": "https://fanqienovel.com/page/7636894338433174552"
-    },
-    {
-      "title": "老板是顶级魅魔，我睡一次没事吧",
-      "author": "椒江梁七",
-      "category": "豪门总裁",
-      "reads": 360000.0,
-      "reads_str": "36万",
-      "url": "https://fanqienovel.com/page/7660590811435781182"
+      "reads": 392000.0,
+      "reads_str": "39.2万",
+      "url": "https://fanqienovel.com/page/7532034656590367806"
     },
     {
       "title": "备用联系人",
       "author": "绒绒冬眠期",
       "category": "豪门总裁",
-      "reads": 356000.0,
-      "reads_str": "35.6万",
+      "reads": 374000.0,
+      "reads_str": "37.4万",
       "url": "https://fanqienovel.com/page/7666468801357040665"
+    },
+    {
+      "title": "老板是顶级魅魔，我睡一次没事吧",
+      "author": "椒江梁七",
+      "category": "豪门总裁",
+      "reads": 371000.0,
+      "reads_str": "37.1万",
+      "url": "https://fanqienovel.com/page/7660590811435781182"
+    },
+    {
+      "title": "人前禁欲，夜里沉溺",
+      "author": "洛汀序",
+      "category": "豪门总裁",
+      "reads": 369000.0,
+      "reads_str": "36.9万",
+      "url": "https://fanqienovel.com/page/7636894338433174552"
     },
     {
       "title": "金丝雀守则，别拆穿大佬装瞎",
       "author": "橦肆",
       "category": "豪门总裁",
-      "reads": 352000.0,
-      "reads_str": "35.2万",
+      "reads": 333000.0,
+      "reads_str": "33.3万",
       "url": "https://fanqienovel.com/page/7633768732925381694"
     },
     {
       "title": "末世大佬难攀？可他夜夜喊我宝宝",
       "author": "妩眠夏",
       "category": "科幻末世",
-      "reads": 286000.0,
-      "reads_str": "28.6万",
+      "reads": 293000.0,
+      "reads_str": "29.3万",
       "url": "https://fanqienovel.com/page/7668625311868652569"
     },
     {
       "title": "列车求生：我的金手指是瓶邪黑花",
       "author": "遍迹天涯",
       "category": "科幻末世",
-      "reads": 258000.0,
-      "reads_str": "25.8万",
+      "reads": 266000.0,
+      "reads_str": "26.6万",
       "url": "https://fanqienovel.com/page/7672013403740703806"
     },
     {
       "title": "重生七零夺回空间被军区大佬娇宠",
       "author": "橙子作者",
       "category": "年代",
-      "reads": 233000.0,
-      "reads_str": "23.3万",
+      "reads": 253000.0,
+      "reads_str": "25.3万",
       "url": "https://fanqienovel.com/page/7663360515527150617"
     },
     {
       "title": "春夜难渡",
       "author": "元芍七",
       "category": "豪门总裁",
-      "reads": 225000.0,
-      "reads_str": "22.5万",
+      "reads": 224000.0,
+      "reads_str": "22.4万",
       "url": "https://fanqienovel.com/page/7604739798246378521"
-    },
-    {
-      "title": "家徒四壁我养活两个兽世哥哥",
-      "author": "陈罟熙",
-      "category": "种田",
-      "reads": 211000.0,
-      "reads_str": "21.1万",
-      "url": "https://fanqienovel.com/page/7621838813861514264"
-    },
-    {
-      "title": "欲爱不能",
-      "author": "遥玲",
-      "category": "豪门总裁",
-      "reads": 211000.0,
-      "reads_str": "21.1万",
-      "url": "https://fanqienovel.com/page/7613969299773852734"
     },
     {
       "title": "穿成恶毒女配，我只求死遁回家",
       "author": "ning好",
       "category": "豪门总裁",
-      "reads": 203000.0,
-      "reads_str": "20.3万",
+      "reads": 224000.0,
+      "reads_str": "22.4万",
       "url": "https://fanqienovel.com/page/7656742488513711166"
     },
     {
-      "title": "卡他失忆哄离婚，病娇又又失控了",
-      "author": "灯下不黑黑",
+      "title": "家徒四壁我养活两个兽世哥哥",
+      "author": "陈罟熙",
+      "category": "种田",
+      "reads": 210000.0,
+      "reads_str": "21万",
+      "url": "https://fanqienovel.com/page/7621838813861514264"
+    },
+    {
+      "title": "救命！最强小队怎么全员偏科啊？",
+      "author": "徐心",
+      "category": "现言脑洞",
+      "reads": 208000.0,
+      "reads_str": "20.8万",
+      "url": "https://fanqienovel.com/page/7667429331135646782"
+    },
+    {
+      "title": "欲爱不能",
+      "author": "遥玲",
       "category": "豪门总裁",
-      "reads": 199000.0,
-      "reads_str": "19.9万",
-      "url": "https://fanqienovel.com/page/7648178680786586649"
-    },
-    {
-      "title": "陪闺蜜离个婚，军区硬汉馋疯了",
-      "author": "尤苚",
-      "category": "年代",
-      "reads": 198000.0,
-      "reads_str": "19.8万",
-      "url": "https://fanqienovel.com/page/7671191480815340606"
-    },
-    {
-      "title": "恶毒女友提分手，太子爷他疯批了",
-      "author": "厘椰",
-      "category": "职场婚恋",
-      "reads": 197000.0,
-      "reads_str": "19.7万",
-      "url": "https://fanqienovel.com/page/7657927088350956606"
+      "reads": 208000.0,
+      "reads_str": "20.8万",
+      "url": "https://fanqienovel.com/page/7613969299773852734"
     },
     {
       "title": "惊！阴鸷太子爷的炮灰老婆重生了",
       "author": "桃桃予酒",
       "category": "豪门总裁",
+      "reads": 201000.0,
+      "reads_str": "20.1万",
+      "url": "https://fanqienovel.com/page/7661066068244302873"
+    },
+    {
+      "title": "恶毒女友提分手，太子爷他疯批了",
+      "author": "厘椰",
+      "category": "职场婚恋",
       "reads": 195000.0,
       "reads_str": "19.5万",
-      "url": "https://fanqienovel.com/page/7661066068244302873"
+      "url": "https://fanqienovel.com/page/7657927088350956606"
     },
     {
       "title": "穿成炮灰后：每天都被男主堵床角",
       "author": "倚楼听鱼",
       "category": "宫斗宅斗",
-      "reads": 191000.0,
-      "reads_str": "19.1万",
+      "reads": 193000.0,
+      "reads_str": "19.3万",
       "url": "https://fanqienovel.com/page/7656346259292163097"
+    },
+    {
+      "title": "卡他失忆哄离婚，病娇又又失控了",
+      "author": "灯下不黑黑",
+      "category": "豪门总裁",
+      "reads": 193000.0,
+      "reads_str": "19.3万",
+      "url": "https://fanqienovel.com/page/7648178680786586649"
     },
     {
       "title": "顶级大佬的心尖挚爱",
       "author": "菩提籽",
       "category": "豪门总裁",
-      "reads": 185000.0,
-      "reads_str": "18.5万",
+      "reads": 192000.0,
+      "reads_str": "19.2万",
       "url": "https://fanqienovel.com/page/7649731307685039128"
     }
   ],
