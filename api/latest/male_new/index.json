@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-16",
-  "prev_date": "2026-09-15",
+  "date": "2026-09-17",
+  "prev_date": "2026-09-16",
   "types": [
     {
       "type": "all",
@@ -11,7 +11,7 @@
     {
       "type": "西方奇幻",
       "url": "api/latest/male_new/%E8%A5%BF%E6%96%B9%E5%A5%87%E5%B9%BB.json",
-      "book_count": 30
+      "book_count": 29
     },
     {
       "type": "东方仙侠",
@@ -86,7 +86,7 @@
     {
       "type": "抗战谍战",
       "url": "api/latest/male_new/%E6%8A%97%E6%88%98%E8%B0%8D%E6%88%98.json",
-      "book_count": 29
+      "book_count": 30
     },
     {
       "type": "游戏体育",
