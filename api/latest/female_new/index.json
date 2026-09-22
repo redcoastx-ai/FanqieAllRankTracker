@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "prev_date": "2026-09-19",
+  "date": "2026-09-22",
+  "prev_date": "2026-09-21",
   "types": [
     {
       "type": "all",
@@ -51,7 +51,7 @@
     {
       "type": "宫斗宅斗",
       "url": "api/latest/female_new/%E5%AE%AB%E6%96%97%E5%AE%85%E6%96%97.json",
-      "book_count": 28
+      "book_count": 30
     },
     {
       "type": "悬疑脑洞",
@@ -61,7 +61,7 @@
     {
       "type": "古言脑洞",
       "url": "api/latest/female_new/%E5%8F%A4%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 30
+      "book_count": 28
     },
     {
       "type": "快穿",
